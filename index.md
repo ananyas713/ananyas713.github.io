@@ -1,15 +1,15 @@
-# About me
+# Personal Website
 
-Wow this is wild. I like it. 😉
-
----
-
-# Resume
+Welcome to my website!
 
 ---
 
-# Projects
+## Resume
 
 ---
 
-# Presentations
+## Projects
+
+---
+
+## Presentations
