@@ -1,7 +1,5 @@
 # Welcome to my website!
 
-![Photo](./files/Grad_Photo.png)
-
 #### [Resume](./files/Ananya_Swaminathan_Resume.pdf)
 
 ---
