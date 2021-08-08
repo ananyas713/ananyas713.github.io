@@ -10,7 +10,7 @@
 
 [Predicting Hypoxemia in the ICU](https://github.com/JasmineZhen218/hypoxemia)
 
-mgcpy: A Comprehensive High Dimensional Independence Testing Python Package
+[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://pypi.org/project/mgcpy/)
 
 [Longitudinal In-vivo Detection of Synapses (LIDS)](https://github.com/NeuroDataDesign/LIDS)
 
