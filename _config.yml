@@ -2,4 +2,8 @@ theme: jekyll-theme-minimal
 title: <p align="center"> Ananya Swaminathan </p>
 logo: "/files/Grad_Photo_Circ.png?raw=true"
 description: <p align="left"> Hello! I am currently a BS/MSE student in the Johns Hopkins Department of Biomedical Engineering. </p>
-{% include image.html file="/files/Linkedin-logo.png" url="http://linkedin.com/ananyas713" %}
+<p align="center">
+<img src="/files/Linkedin-logo.png" 
+     width="100" 
+     height="100" />
+</p>
