@@ -22,3 +22,10 @@
 
 [**Swaminathan, A.**, Wojahn, E., Chang, H. H., Zobeiri, O., and Cullen, K. E. Quantifying circling behavior and head bobbing in mice with CIB2 mutations. Poster session at the annual conference of the Biomedical Engineering Society; 2019 Oct 16-19; Philadelphia, PA.](https://submissions.mirasmart.com/SecureView/BMESArchive/radopdr0tud.pdf)
 
+---
+
+## Publications
+
+[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://arxiv.org/pdf/1907.02088v1.pdf)
+
+[356: Predicting Hypoxemia in ICU Patients](https://journals.lww.com/ccmjournal/Citation/2021/01001/356__Predicting_Hypoxemia_in_ICU_Patients.324.pdf)
