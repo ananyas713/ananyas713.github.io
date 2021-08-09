@@ -18,9 +18,15 @@
 
 ## Presentations
 
-[Wang, Z., Kyranakis, S., **Swaminathan, A.**, Chen, C., Shen, W., Bergmann, J., Fackler, J., Ruchti, T., Greenstein, J., and Winslow, R. Predicting Hypoxemia in ICU Patients. Virtual poster session at the annual conference of the Biomedical Engineering Society; 2020 Oct 14.](https://submissions.mirasmart.com/SecureView/BMESArchive/radnlk0nj1t.pdf)
+**Swaminathan, A.**, Leroux, A., Lateef, S., Lateef, T. M., and Merikangas, K. R. Melatonin as a Potential Biomarker for Sleep Patterns and Disturbances in Migraine and Depression. Virtual poster session at NIH Summer Research Presentation Week; 2021 August 4.
 
-[**Swaminathan, A.**, Wojahn, E., Chang, H. H., Zobeiri, O., and Cullen, K. E. Quantifying circling behavior and head bobbing in mice with CIB2 mutations. Poster session at the annual conference of the Biomedical Engineering Society; 2019 Oct 16-19; Philadelphia, PA.](https://submissions.mirasmart.com/SecureView/BMESArchive/radopdr0tud.pdf)
+**Swaminathan, A.**, Stanley, O., Wojahn, E., and Cullen, K. E. Leveraging computer vision to screen mice for vestibular dysfunction. Johns Hopkins University Undergraduate Research Seminar Series; 2021 April 22-23; Baltimore, MD.  
+
+**Swaminathan, A.**, Stanley, O., Wojahn, E., and Cullen, K. E. Quantifying Stereotyped Circling Behavior in Mice. Poster session at Women in STEM Symposium; 2021 April 9; Baltimore, MD.
+
+Wang, Z., Kyranakis, S., **Swaminathan, A.**, Chen, C., Shen, W., Bergmann, J., Fackler, J., Ruchti, T., Greenstein, J., and Winslow, R. Predicting Hypoxemia in ICU Patients. Virtual poster session at the annual conference of the Biomedical Engineering Society; 2020 Oct 14.
+
+**Swaminathan, A.**, Wojahn, E., Chang, H. H., Zobeiri, O., and Cullen, K. E. Quantifying circling behavior and head bobbing in mice with CIB2 mutations. Poster session at the annual conference of the Biomedical Engineering Society; 2019 Oct 16-19; Philadelphia, PA.
 
 ---
 
