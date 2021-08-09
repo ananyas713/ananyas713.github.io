@@ -17,3 +17,8 @@
 ---
 
 ## Presentations
+
+[Wang, Z., Kyranakis, S., **Swaminathan, A.**, Chen, C., Shen, W., Bergmann, J., Fackler, J., Ruchti, T., Greenstein, J., and Winslow, R. Predicting Hypoxemia in ICU Patients. Virtual poster session at the annual conference of the Biomedical Engineering Society; 2020 Oct 14.](https://submissions.mirasmart.com/SecureView/BMESArchive/radnlk0nj1t.pdf)
+
+[**Swaminathan, A.**, Wojahn, E., Chang, H. H., Zobeiri, O., and Cullen, K. E. Quantifying circling behavior and head bobbing in mice with CIB2 mutations. Poster session at the annual conference of the Biomedical Engineering Society; 2019 Oct 16-19; Philadelphia, PA.](https://submissions.mirasmart.com/SecureView/BMESArchive/radopdr0tud.pdf)
+
