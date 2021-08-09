@@ -26,6 +26,6 @@
 
 ## Publications
 
-[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://arxiv.org/pdf/1907.02088v1.pdf)
-
 [356: Predicting Hypoxemia in ICU Patients](https://journals.lww.com/ccmjournal/Citation/2021/01001/356__Predicting_Hypoxemia_in_ICU_Patients.324.pdf)
+
+[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://arxiv.org/pdf/1907.02088v1.pdf)
