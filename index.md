@@ -6,7 +6,7 @@
 
 ## Projects
 
-[OneShot: A Novel Method to Prepare Saliva Samples for Testing](https://designday.jhu.edu/design-day-projects-2021/entry/1142/)
+OneShot: A Novel Method to Prepare Saliva Samples for Testing
 
 [Predicting Hypoxemia in the ICU](https://github.com/JasmineZhen218/hypoxemia)
 
