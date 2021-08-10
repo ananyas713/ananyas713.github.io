@@ -32,6 +32,6 @@ Wang, Z., Kyranakis, S., **Swaminathan, A.**, Chen, C., Shen, W., Bergmann, J., 
 
 ## Publications
 
-[356: Predicting Hypoxemia in ICU Patients](https://journals.lww.com/ccmjournal/Citation/2021/01001/356__Predicting_Hypoxemia_in_ICU_Patients.324.pdf)
+Bergmann, J., Wang, Z., Kyranakis, S., **Swaminathan, A.**, Chen, C., Shi, W., Greenstein, J., Winslow, R., Fackler, J., Ruchti, T. (2021). [356: Predicting Hypoxemia in ICU Patients.](https://journals.lww.com/ccmjournal/Citation/2021/01001/356__Predicting_Hypoxemia_in_ICU_Patients.324.pdf) *Critical Care Medicine*.
 
-[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://arxiv.org/pdf/1907.02088v1.pdf)
+Panda, S., Palaniappan, S., Xiong, J., **Swaminathan, A.**, Ramachandran, S., Bridgeford, E. W., Shen, C., Vogelstein, J. T. (2019). [mgcpy: A Comprehensive High Dimensional Independence Testing Python Package.](https://arxiv.org/pdf/1907.02088v1.pdf) *arXiv preprint arXiv:1907.02088*.
