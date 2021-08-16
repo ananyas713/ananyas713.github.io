@@ -4,18 +4,6 @@
 
 ---
 
-## Projects
-
-OneShot: A Novel Method to Prepare Saliva Samples for Testing
-
-[Predicting Hypoxemia in the ICU](https://github.com/JasmineZhen218/hypoxemia)
-
-[mgcpy: A Comprehensive High Dimensional Independence Testing Python Package](https://pypi.org/project/mgcpy/)
-
-[Longitudinal In-vivo Detection of Synapses (LIDS)](https://github.com/NeuroDataDesign/LIDS)
-
----
-
 ## Presentations
 
 **Swaminathan, A.**, Leroux, A., Lateef, S., Lateef, T. M., and Merikangas, K. R. Melatonin as a Potential Biomarker for Sleep Patterns and Disturbances in Migraine and Depression. Virtual poster session at NIH Summer Research Presentation Week; 2021 August 4.
