@@ -6,8 +6,6 @@
 
 ## Presentations
 
-**Swaminathan, A.**, Leroux, A., Lateef, S., Lateef, T. M., and Merikangas, K. R. Melatonin as a Potential Biomarker for Sleep Patterns and Disturbances in Migraine and Depression. Virtual poster session at NIH Summer Research Presentation Week; 2021 August 4.
-
 **Swaminathan, A.**, Stanley, O., Wojahn, E., and Cullen, K. E. Leveraging computer vision to screen mice for vestibular dysfunction. Johns Hopkins University Undergraduate Research Seminar Series; 2021 April 22-23; Baltimore, MD.  
 
 **Swaminathan, A.**, Stanley, O., Wojahn, E., and Cullen, K. E. Quantifying Stereotyped Circling Behavior in Mice. Poster session at Women in STEM Symposium; 2021 April 9; Baltimore, MD.
