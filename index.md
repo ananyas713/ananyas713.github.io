@@ -1,6 +1,6 @@
 # Welcome to my website!
 
-#### [My resume]<https://stackoverflow.com>
+#### [My resume](https://stackoverflow.com)
 
 ---
 
