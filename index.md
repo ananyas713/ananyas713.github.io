@@ -1,6 +1,6 @@
 # Welcome to my website!
 
-#### [My resume](./files/Ananya_Swaminathan_Resume_OL.pdf)
+#### [My resume]<https://stackoverflow.com>
 
 ---
 
