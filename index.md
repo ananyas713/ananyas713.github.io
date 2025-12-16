@@ -26,17 +26,17 @@
 ## Johns Hopkins Research and Engineering Projects 
 
 ### An Open-Source Tool for Automated Human-Level Circling Behavior Detection
-**Innovation:** This open-source tool has achieved human-level accuracy for quantifying repetitive circling behaviors in mice. Quantifying circling behaviors is a manually-intensive process; a set of 48 2-minute videos can take between 10-20 hours to review. Additionally, circling behaviors are associated with vestibular dysfunction; therefore, this tool provides an automated method to screen mice for balance disorders, allowing us to more easily identify potential mouse models of vestibular dysfunction.\
+**Innovation:** We designed an open-source tool that has achieved human-level accuracy for quantifying repetitive circling behaviors in mice. Quantifying circling behaviors is a manually-intensive process; a set of 48 2-minute videos can take between 10-20 hours to review. Additionally, circling behaviors are associated with vestibular dysfunction; therefore, this tool provides an automated method to screen mice for balance disorders, allowing us to more easily identify potential mouse models of vestibular dysfunction.\
 **My role:** I collaborated with my graduate student mentor to create this tool in Python. I helped design the study, collect videos of the mice exploring an open field, and write data analysis code. I also created a tool using Tkinter, a Python GUI package, to increase ease of manual labeling of these data.\
 **Results:** I am a co-author on a [manuscript of this work published in *Scientific Reports*](https://www.nature.com/articles/s41598-024-71665-z).
 
 ### Predicting Hypoxemia in ICU Settings
-**Innovation:** This novel machine learning method can be used to predict hypoxemia (low blood oxygen) in advance within ICU settings, thus providing an opportunity for early intervention.\
+**Innovation:** We created a novel machine learning method that can be used to predict hypoxemia (low blood oxygen) in advance within ICU settings, thus providing an opportunity for early intervention.\
 **My role:** I collaborated with researchers and engineers from Nihon Kohden and Johns Hopkins Hospital to design this tool. I helped extract and engineer features from the MIMIC-III clinical database. I also plotted and analyzed feature trends to validate our results.\
 **Results:** I contributed to an [abstract published in *Critical Care Medicine*](https://journals.lww.com/ccmjournal/citation/2021/01001/356__predicting_hypoxemia_in_icu_patients.324.aspx).
 
 ### OneShot: A Novel Method to Prepare Saliva Samples for Testing
-**Innovation:** This work aimed to increase the ease and efficiency of saliva testing for COVID-19.\
+**Innovation:** Our goal was to create a device that increases ease and efficiency of saliva testing for COVID-19.\
 **My role:** I collaborated with engineers at the Johns Hopkins Center for Bioengineering Innovation and Design as well as stakeholders at Danaher, Inc. to create this device. I led prototyping efforts using CAD Software (Fusion 360) and wrote protocols to test whether designs met user requirements.\
 **Results:** One example of an early-stage prototype I designed using CAD can be found [here](./files/Magic_Box_Design.jpeg).
 
