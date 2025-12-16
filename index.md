@@ -25,12 +25,22 @@
 
 ## Johns Hopkins Research and Engineering Projects 
 
+### An Open-Source Tool for Automated Human-Level Circling Behavior Detection
+**Innovation:** This open-source tool has achieved human-level accuracy for quantifying repetitive circling behaviors in mice. Quantifying circling behaviors is a manually-intensive process; a set of 48 2-minute videos can take between 10-20 hours to review. Additionally, circling behaviors are associated with vestibular dysfunction; therefore, this tool provides an automated method to screen mice for balance disorders, allowing us to more easily identify potential mouse models of vestibular dysfunction.\
+**My role:** I collaborated with my graduate student mentor to create this tool in Python. I helped design the study, collect videos of the mice exploring an open field, and write data analysis code. I also created a tool using Tkinter, a Python GUI package, to increase ease of manual labeling of these data.\
+**Results:** I am a co-author on a manuscript of this work published in *Scientific Reports*. This work can be found [here](https://www.nature.com/articles/s41598-024-71665-z).
+
+### Predicting Hypoxemia in ICU Settings
+**Innovation:** This smartphone applet tracks various domains across physical, mental, and behavioral health, including mood, sleep, physical activity. Its comprehensive nature allows exploration of various correlates of mental illness.\
+**My role:** I collaborated with researchers and engineers at the Child Mind Institute to provide feedback on content and response structuring/conditional logic. I initiated the development of this applet's associated data processing pipeline, which transforms the data from its raw form into a format that can be more easily analyzed.\
+**Results:** I am a co-author on a manuscript of this work submitted to *npj Digital Medicine*. A preprint of this work can be found [here](https://preprints.jmir.org/preprint/85667).
+
 ---
 
 ## Miscellaneous
 
 ### Gait Analyzer Shiny App
-While at Johns Hopkins, I took a course on data science for biomedical engineers. As part of that class, I collaborated with a classmate to create a Shiny app to predict neurological disorder based on time-series gait data. More information can be found below:
+While at Johns Hopkins, I took a class on data science for biomedical engineers. As part of that course, I collaborated with a classmate to create a Shiny app to predict whether a person has a neurological disorder based on time-series gait data. More information can be found below:
 * [Shiny App](https://ananyas713.shinyapps.io/Gait_Analyzer/#section-prediction-tool)
 * [Github Repository](https://github.com/ananyas713/DataSci_FinalProject) 
 
