@@ -11,7 +11,15 @@
 **My role:** I collaborated with researchers and engineers at the Child Mind Institute to provide feedback on content and response structuring/conditional logic. I initiated the development of this applet's associated data processing pipeline, which transforms the data from its raw form into a format that can be more easily analyzed.\
 **Results:** I am a co-author on a manuscript of this work submitted to *npj Digital Medicine*. A preprint of this work can be found [here](https://preprints.jmir.org/preprint/85667).
 
-#### [My resume](https://stackoverflow.com)
+### Associations Between Empirically Derived Symptom Profiles of ADHD and Mood Disorders
+**Innovation:** This work examines associations between symptom patterns of ADHD and mood disorders, potentially allowing us to identify targets for early intervention of bipolar disorder.\
+**My role:** I helped generate the experimental questions, preprocessed the data and imputed missing values, and derived the ADHD symptom patterns using a statistical clustering method.\
+**Results:** I presented this work at the NIMH Three-Minute Talk Competition. I am also drafting a first-author manuscript that is currently in preparation.
+
+### Correlates of Diurnal Patterns of Cortisol
+**Innovation:** This work examines cortisol release patterns across the lifespan. It also examines how these release patterns are associated with other psychological and biological domains, such as mood and sleep.\
+**My role:** I integrated mood (captured through self-report diary entries administered on mobile devices) with salivary cortisol measurements to analyze associations between these data.\
+**Results:** I presented this work at four conferences.
 
 ---
 
