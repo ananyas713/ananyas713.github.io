@@ -29,5 +29,13 @@
 
 ## Miscellaneous
 
+### Gait Analyzer Shiny App
+While at Johns Hopkins, I took a course on data science for biomedical engineers. As part of that class, I collaborated with a classmate to create a Shiny app to predict neurological disorder based on time-series gait data. More information can be found below:
+* [Shiny App](https://ananyas713.shinyapps.io/Gait_Analyzer/#section-prediction-tool)
+* [Github Repository](https://github.com/ananyas713/DataSci_FinalProject) 
+
+### Nerds in Harmony
+During my time at the NIMH, I participated in Nerds in Harmony, an NIH acappella group. We presented at various venues, including the NIH Clinical Center and the Smithsonian National Zoo. You can find a video of us performing [here!](https://www.youtube.com/watch?v=Uf_hxJ5Qzkw)
+
 ---
 
