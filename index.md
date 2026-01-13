@@ -9,7 +9,7 @@
 ### Real-time Ecological Assessment of the Context of mental and physical Health (REACH)
 **Innovation:** This smartphone applet tracks various domains across physical, mental, and behavioral health, including mood, sleep, physical activity. Its comprehensive nature allows exploration of various correlates of mental illness.\
 **My role:** I collaborated with researchers and engineers at the Child Mind Institute to provide feedback on content and response structuring/conditional logic. I initiated the development of this applet's associated data processing pipeline, which transforms the data from its raw form into a format that can be more easily analyzed.\
-**Results:** I am a co-author on a manuscript of this work submitted to *npj Digital Medicine*. A preprint of this work can be found [here](https://preprints.jmir.org/preprint/85667).
+**Results:** I am a co-author on a manuscript of this work submitted to *npj Digital Medicine*. A preprint of this work can be found [here](https://www.researchsquare.com/article/rs-8171682/v1).
 
 ### Associations Between Empirically Derived Symptom Profiles of ADHD and Mood Disorders
 **Innovation:** This work examines associations between symptom patterns of ADHD and mood disorders, potentially allowing us to identify targets for early intervention of bipolar disorder.\
